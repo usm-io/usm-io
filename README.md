@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Salam, I'm Usman!
 
-<!--
-**usm-io/usm-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 My Vision: Future AI Engineer
+I am starting my tech journey from scratch with a strong determination to master Artificial Intelligence and Software Development. I believe in continuous learning, building smart projects, and documenting my growth.
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Learning programming logic and core computer science fundamentals.
+- 🌱 **My Roadmap:** Python Basics ➡️ Data Structures ➡️ Machine Learning ➡️ Deep Learning & AI.
+- 💬 **Ask me about:** Consistency, goal setting, or my learning journey.
+- ✉️ **Let's Connect:** usmanshakir003@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🗺️ Learning Roadmap & Tech Stack
+Here are the technologies I am currently learning or planning to master soon:
+
+| Learning Stage | Target Technologies |
+| :--- | :--- |
+| **Phase 1: Basics** | Python, Git, GitHub, Linux Command Line |
+| **Phase 2: Data & Math** | NumPy, Pandas, Linear Algebra, Statistics |
+| **Phase 3: Machine Learning** | Scikit-Learn, Data Visualization (Matplotlib) |
+
+---
+
+### 📊 My Growth Track
+<p align="left">
+  <img src="https://vercel.app" alt="Usman's GitHub Stats" height="150" />
+</p>
