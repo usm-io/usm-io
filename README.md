@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Usman Shakir
+
 
 ### ⚡ Aspiring AI Engineer | Software Innovator
 I am launching my software engineering journey from the ground up, with a core focus on mastering Artificial Intelligence, Data Systems, and scalable tech solutions. Passionate about problem-solving, clean code structures, and continuous growth.
@@ -6,7 +6,7 @@ I am launching my software engineering journey from the ground up, with a core f
 - 🔭 **Current Focus:** Building strong foundations in programming logic and computer science.
 - 🌱 **My Roadmap:** Python Fundamentals ➡️ Core Data Structures ➡️ Machine Learning Models ➡️ Advanced AI.
 - 💬 **Ask me about:** Consistency, tech roadmaps, and goal tracking.
-- ✉️ **Connect:** usmanshakir003@gmail.com
+
 
 ---
 
