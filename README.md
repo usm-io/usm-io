@@ -1,27 +1,27 @@
-# 👋 Salam, I'm Usman!
+# 🚀 Hi, I'm Usman Shakir
 
-### 🎯 My Vision: Future AI Engineer
-I am starting my tech journey from scratch with a strong determination to master Artificial Intelligence and Software Development. I believe in continuous learning, building smart projects, and documenting my growth.
+### ⚡ Aspiring AI Engineer | Software Innovator
+I am launching my software engineering journey from the ground up, with a core focus on mastering Artificial Intelligence, Data Systems, and scalable tech solutions. Passionate about problem-solving, clean code structures, and continuous growth.
 
-- 🔭 **Current Focus:** Learning programming logic and core computer science fundamentals.
-- 🌱 **My Roadmap:** Python Basics ➡️ Data Structures ➡️ Machine Learning ➡️ Deep Learning & AI.
-- 💬 **Ask me about:** Consistency, goal setting, or my learning journey.
-- ✉️ **Let's Connect:** usmanshakir003@gmail.com
+- 🔭 **Current Focus:** Building strong foundations in programming logic and computer science.
+- 🌱 **My Roadmap:** Python Fundamentals ➡️ Core Data Structures ➡️ Machine Learning Models ➡️ Advanced AI.
+- 💬 **Ask me about:** Consistency, tech roadmaps, and goal tracking.
+- ✉️ **Connect:** usmanshakir003@gmail.com
 
 ---
 
-### 🗺️ Learning Roadmap & Tech Stack
-Here are the technologies I am currently learning or planning to master soon:
+### 🛠️ Core Stack & Learning Roadmap
+A structured breakdown of my current focus areas and technical targets:
 
-| Learning Stage | Target Technologies |
+| Track | Technologies |
 | :--- | :--- |
-| **Phase 1: Basics** | Python, Git, GitHub, Linux Command Line |
-| **Phase 2: Data & Math** | NumPy, Pandas, Linear Algebra, Statistics |
-| **Phase 3: Machine Learning** | Scikit-Learn, Data Visualization (Matplotlib) |
+| **Foundations** | Python, Linux Shell Basics, Git, GitHub |
+| **Data Architecture** | NumPy, Pandas, Basic Data Manipulation |
+| **Systems & Tools** | VS Code, Markdown, Command Line Interface |
 
 ---
 
-### 📊 My Growth Track
+### 📊 Performance Analytics
 <p align="left">
   <img src="https://vercel.app" alt="Usman's GitHub Stats" height="150" />
 </p>
