@@ -19,9 +19,4 @@ A structured breakdown of my current focus areas and technical targets:
 | **Data Architecture** | NumPy, Pandas, Basic Data Manipulation |
 | **Systems & Tools** | VS Code, Markdown, Command Line Interface |
 
----
-
-### 📊 Performance Analytics
-<p align="left">
-  <img src="https://vercel.app" alt="Usman's GitHub Stats" height="150" />
-</p>
+--
