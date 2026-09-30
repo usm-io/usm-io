@@ -18,5 +18,3 @@ A structured breakdown of my current focus areas and technical targets:
 | **Foundations** | Python, Linux Shell Basics, Git, GitHub |
 | **Data Architecture** | NumPy, Pandas, Basic Data Manipulation |
 | **Systems & Tools** | VS Code, Markdown, Command Line Interface |
-
---
