@@ -1,10 +1,5 @@
 # ⚡ Aspiring AI/ML Engineer | Architecting Computational Intelligence
 
-<p align="center">
-  <img src="https://komarev.com" alt="Views" />
-  <img src="https://shields.io" alt="Followers" />
-</p>
-
 I am launching my engineering trajectory from the ground up. My focus is on mastering Python and foundational data architectures to ultimately design scalable AI systems and Large Language Models (LLMs) with algorithmic precision and ethical foresight.
 
 ---
@@ -20,8 +15,8 @@ I am launching my engineering trajectory from the ground up. My focus is on mast
 
 | Track | Target Technologies (Acquiring) | Status |
 | :--- | :--- | :--- |
-| **Foundations** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> | `In Progress ⏳` |
-| **Data Science** | <img src="https://shields.io" /> <img src="https://shields.io" /> | `Next Milestone 🎯` |
+| **Foundations** | **Python** \| **Git** \| **GitHub** | `In Progress ⏳` |
+| **Data Science** | **NumPy** \| **Pandas** | `Next Milestone 🎯` |
 | **Advanced AI & LLMs** | `Machine Learning models, Neural Networks, Large Language Models` | `Future Horizon 🔮` |
 
 ---
