@@ -1,4 +1,4 @@
-# ⚡ Aspiring AI/ML Engineer | Architecting Computational Intelligence
+# ⚡Aspiring AI/ML Engineer | Architecting Computational Intelligence
 
 I am launching my engineering trajectory from the ground up, with a core focus on mastering Python, data structures, and scalable systems. My objective is to build data-driven solutions and Large Language Models (LLMs) with high algorithmic precision and ethical foresight.
 
